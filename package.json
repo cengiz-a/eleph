@@ -1,0 +1,23 @@
+{
+  "name": "eleph",
+  "version": "1.0.0",
+  "description": "The Elephant, that lives in the city.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cengiz-a/eleph.git"
+  },
+  "keywords": [],
+  "author": "Cengizhan Ayyildiz <a.c.cengizhan@me.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cengiz-a/eleph/issues"
+  },
+  "homepage": "https://github.com/cengiz-a/eleph#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
