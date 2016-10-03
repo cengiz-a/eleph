@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/cengiz-a/eleph#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "phaser": "^2.6.2"
   }
 }
